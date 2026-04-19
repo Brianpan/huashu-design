@@ -2,8 +2,8 @@
 
 ![花叔Design Brand Film](./demo/huashu-design-brand.gif)
 
-> 25 秒品牌片由本 skill 自己完成：Junior Designer 工作流 → 3 个方向假设 → 用户选 → variations → 五维评审 → 一键导出。
-> **[下载 MP4（60fps, 2.2MB）](./demo/huashu-design-brand.mp4)** · [25fps 版](./demo/huashu-design-brand-25fps.mp4)
+> 20 秒品牌片由本 skill 自己完成：ASK → PROPOSE → PICK → CRITIQUE → EXPORT → BRAND，六幕演一次 Junior Designer 的完整工作流。
+> **[下载 MP4（60fps, 1.0MB）](./demo/huashu-design-brand.mp4)** · [25fps 版](./demo/huashu-design-brand-25fps.mp4)
 
 把「AI 当设计师」落到实处的 Skill。
 
